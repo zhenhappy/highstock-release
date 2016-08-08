@@ -1,0 +1,40 @@
+{
+  "name": "highstock-release",
+  "version": "2.0.4",
+  "description": "",
+  "main": "highstock.src.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/highslide-software/highstock-release"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/highslide-software/highstock-release/issues"
+  },
+  "homepage": "https://github.com/highslide-software/highstock-release",
+  "gitHead": "b33e15ca8320533814fd2b515bc91bc4e0e3fc76",
+  "_id": "highstock-release@2.0.4",
+  "_shasum": "d9d1095a900c407f4e0a901c7a0557e0f881b99c",
+  "_from": "highstock-release@^2.0.4",
+  "_npmVersion": "1.4.14",
+  "_npmUser": {
+    "name": "sqreept",
+    "email": "adrian.punga@gmail.com"
+  },
+  "maintainers": [
+    {
+      "name": "sqreept",
+      "email": "adrian.punga@gmail.com"
+    }
+  ],
+  "dist": {
+    "shasum": "d9d1095a900c407f4e0a901c7a0557e0f881b99c",
+    "tarball": "http://registry.npmjs.org/highstock-release/-/highstock-release-2.0.4.tgz"
+  },
+  "directories": {},
+  "_resolved": "https://registry.npmjs.org/highstock-release/-/highstock-release-2.0.4.tgz"
+}
